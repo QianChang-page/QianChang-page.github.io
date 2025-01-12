@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Wuhan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as a teaching assistant for Associate Professor Xia Li's undergraduate courses, where I was responsible for student tutoring and student-faculty communication.
 
 Heading 1
 ======
