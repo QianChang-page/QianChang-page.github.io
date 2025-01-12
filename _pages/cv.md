@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV ![here](https://qianchang-page.github.io/files/cv.pdf).
+You can download my CV [here](https://qianchang-page.github.io/files/cv.pdf).
 
 Education
 ======
