@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV ![here](https://qianchang-page.github.io/files/cv.pdf).
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
