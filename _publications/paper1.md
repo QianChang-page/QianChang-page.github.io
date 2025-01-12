@@ -3,7 +3,7 @@ title: "Determining the efficiency of the sponge city construction pilots in Chi
 collection: publications
 category: manuscripts
 permalink: /publication/paper1
-excerpt: 'This is a paper on performance evaluation of sponge city construction. I completed this research with my undergraduate advisor Mr. Heng Zhang during my undergraduate program.'
+excerpt: 'Author: Heng Zhang, Qian Chang, et al. This is a paper on performance evaluation of sponge city construction. I completed this research with my undergraduate advisor Mr. Heng Zhang during my undergraduate program.'
 date: 2022-09-06
 venue: 'International Journal of Environmental Research and Public Health'
 paperurl: 'http://qianchang-page.github.io/files/paper1.pdf'
