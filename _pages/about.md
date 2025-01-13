@@ -53,4 +53,4 @@ Honors
     <td>etc.</td>
     <td></td>
   </tr>
-</tbody></table>
+</table>
