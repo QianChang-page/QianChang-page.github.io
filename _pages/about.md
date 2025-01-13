@@ -17,3 +17,40 @@ My research interests focus on explainable and scalable machine learning/deep le
 Update
 ------
 I am reaching out to explore a PhD opportunity.
+
+Honors
+------
+<table><thead>
+  <tr>
+    <td>National Postgraduate Scholarship (top 1%)</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>Outstanding Postgraduate Student (top 5%)</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>Outstanding Graduate (top 5%)</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>First Place in the Recommended Graduate Student Exemptions (top 1)</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>Meritorious Winner of the Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>First Prize of China Undergraduate Mathematical Contest in Modeling</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>First-class Academic Scholarship (many times)</td>
+    <td>2019-2024</td>
+  </tr>
+    <tr>
+    <td>etc.</td>
+    <td></td>
+  </tr>
+</tbody></table>
