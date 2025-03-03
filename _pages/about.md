@@ -20,7 +20,7 @@ I am currently reaching out to explore a PhD opportunity.
 
 Honors
 ------
-<table><thead>
+<table>
   <tr>
     <td>National Postgraduate Scholarship (top 1%)</td>
     <td>2024</td>
@@ -53,4 +53,4 @@ Honors
     <td>etc.</td>
     <td></td>
   </tr>
-</tbody></table>
+</table>
